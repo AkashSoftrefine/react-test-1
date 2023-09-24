@@ -12,8 +12,8 @@ The candidate should create React components that mirror the elements and struct
 2. Props Usage: 
 The candidate should use props to pass data and customize components as needed. For example, dynamic content, such as text or images, should be passed as props to components.
 
-3. Styling with CSS Modules: 
-The project should make use of CSS Modules to apply styles to components. CSS Modules ensure that styles are scoped to individual components, preventing conflicts and enhancing maintainability.
+3. Styling with CSS/SASS/SCSS: 
+The project should make use of CSS/SASS/SCSS to apply styles to components. 
 
 4. Responsive Design: 
 The web application should be responsive, adapting to various screen sizes and orientations. Media queries and CSS flexbox/grid layouts may be used to achieve responsiveness.
@@ -24,7 +24,7 @@ The candidate should demonstrate an understanding of component composition by br
 ### Technology Stack
 
 - React
-- CSS/SASS/SCSS Modules
+- CSS/SASS/SCSS 
 - Vite/CRA
 
 ### Submission
